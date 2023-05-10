@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @fajartriadyp
-- 👀 I’m interested in Data Science, Machine Learning and Quality Asurance Engginer 
-- 🌱 I’m currently learning Katalon studio for Automation testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-
-
 # 💫 About Me:
 👋 Hi, I’m @fajartriadyp<br> I’m interested in Data Science, Machine Learning and Quality Assurance Engineer<br> I’m currently learning CI/CD, Appium And Webdriverio
 
