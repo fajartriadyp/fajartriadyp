@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fajartriadyp&theme=material-palenight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fajartriadyp&theme=buddhism&no-frame=true&no-bg=true&margin-w=4)
+![][![trophy](https://github-profile-trophy.vercel.app/?username=fajartriadyp)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
