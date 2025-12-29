@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @fajartriadyp<br> I’m interested in Data Science, Machine Learning and Quality Assurance Engineer<br> I’m currently learning CI/CD, Appium And Webdriverio
+👋 Hi, I’m @fajartriadyp<br> I’m interested in Quality Assurance Engineer and Product Management<br> I’m currently learning CI/CD, Appium And Webdriverio
 
 
 ## 🌐 Socials:
